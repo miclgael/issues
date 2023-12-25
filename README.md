@@ -11,7 +11,7 @@
 
 ## What will happen next?
 
-1. Issues with access are given the highest priority and where possible I will bump feature and other bugs to focus on these tasks. 
+1. Issues with accessibility are given the highest priority and where possible I will bump feature and other bugs to focus on these tasks. 
 2. After receiving the report, I will schedule it into [my roadmap](https://github.com/users/miclgael/projects/4) (currently private).
 3. As soon as I have scheduled the issue into my roadmap, I will comment on the issue with a planned work-start date. 
 4. Please note, due to my deployment strategy, the issue may be closed before a change is visible on the live website. In these cases, I will endeavour to add the fix version as another comment. 
