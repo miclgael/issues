@@ -5,7 +5,7 @@
 ## How to report an issue
 
 1. Check if issue already exists by searching the [issues page](https://github.com/miclgael/issues/issues).
-2. Click the green "New Issue" button on the [issues page](https://github.com/miclgael/issues/issues). ![image of the green button](https://github.com/miclgael/issues/assets/4301358/49e1ae85-48bc-41f8-a480-a7af7885414b)
+2. Click the green "New Issue" button on the [issues page](https://github.com/miclgael/issues/issues). 
 3. On the [choose issues page](https://github.com/miclgael/issues/issues/new/choose), select the issue type from the available choices (bug, a11y, feature request) ![image of the options page](https://github.com/miclgael/issues/assets/4301358/e6ba763d-47ec-49ec-b690-584d62bc19d3)
 4. Fill out the issue report page with as much detail as you can.
 
